@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(151, 247, 151);
+    margin: 0px;
+}
+p{
+    font-weight: 700;
+}
+#principal{
+    background-color: green;
+    color: white;
+    padding-top: 20px;
+    margin: 0px;
+    border: 20px;
+    text-align: center;
+}
+header{
+    background-color: green;
+    margin: 0px;
+    padding: 0px;
+}
+nav > a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black;
+}
+
+
+main{
+    background-color: white;
+    margin: 10px 100px;
+    padding: 10px 50px;
+    
+}
+.topo{
+    background-color: green;
+    text-align: center;
+}
+a{
+    padding: 5px;
+}
+span{
+    color: darkgreen;
+}
+

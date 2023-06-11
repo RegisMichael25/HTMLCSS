@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+     background-color: lightblue;
+}
+
+header{
+    background-color: aqua;
+
+}
+
+h1{
+    color: black;
+    
+}
+
+.paragrafos{
+    background-color: blue;
+    padding: 10px;
+    width: 50%;
+}

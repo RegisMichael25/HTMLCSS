@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+*{
+ 
+}
+
+body{
+    background-color: rgb(180, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#principal{
+    background-color: rgb(151, 255, 220);
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+h2{
+    background-color: rgb(89, 167, 167);
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.unico{
+    text-align: left;
+}
